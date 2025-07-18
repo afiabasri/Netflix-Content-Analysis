@@ -36,9 +36,13 @@ Source: [Netflix Titles Dataset on Kaggle](https://www.kaggle.com/datasets/shiva
 
 ## 📸 Visual Preview
 
-_Add sample output screenshots if available:_
+<img width="661" height="291" alt="Netfilx 1" src="https://github.com/user-attachments/assets/d3d6fed9-3270-4c48-bd35-1283ecc698ae" />
 
-```markdown
-![Monthly Trends](images/monthly_trends.png)
-![Genre Distribution](images/genre_distribution.png)
 
+<img width="707" height="294" alt="Netflix 2" src="https://github.com/user-attachments/assets/90beeb25-8541-41f5-bc5d-034c369040c1" />
+
+## 👩‍💻 Author
+
+**Afia Basri**  
+_Data Enthusiast • Python Analyst • Dashboard Developer_  
+[LinkedIn](#) • [Fiverr](#) • [Portfolio](#)
